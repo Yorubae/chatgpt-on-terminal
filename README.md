@@ -19,7 +19,7 @@ provide executeable permission to make the scipt to run
 ./install.sh
 ```
 # Showcase
-![chatgpt](misc/chat.png)
+![chatgpt](misc/chat1.png)
 ![chatgpt](misc/chat0.png)
 
 # openAI
