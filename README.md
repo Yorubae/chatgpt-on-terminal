@@ -18,4 +18,5 @@ provide executeable permission to make the scipt to run
 ./install.sh
 ```
 # Showcase
-![chatgpt]()
+![chatgpt](misc/chat.png)
+![chatgpt](misc/chat0.png)
