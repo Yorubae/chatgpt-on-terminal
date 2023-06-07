@@ -20,3 +20,6 @@ provide executeable permission to make the scipt to run
 # Showcase
 ![chatgpt](misc/chat.png)
 ![chatgpt](misc/chat0.png)
+
+# openAI
+If you want to learn more how this works, you can consider visiting [openAI's](https://platform.openai.com/docs/introduction) documentation.
