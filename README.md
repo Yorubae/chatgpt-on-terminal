@@ -4,6 +4,7 @@ Through this script you can communicate with [gpt-3.5-turbo](https://platform.op
 
 # Dependecies required
 `openai`, It is a library by openAI basically a wrappper to work with their api
+
 `python-dotenv`, To work with the environmets variable, which is the apikey for your account provided by openAI
 - openai
 - python-dotenv
