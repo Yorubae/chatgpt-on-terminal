@@ -1,6 +1,6 @@
 
 # Chatgpt on Terminal
-Through this script you can communicate with [gpt-3.5-turbo](https://platform.openai.com/docs/models/gpt-3-5) model of openAI, not really a hardcore project but its fun you know? tho you can't make many requests because of their [rate limits policy](https://platform.openai.com/docs/guides/rate-limits)
+Through this script you can communicate with [gpt-3.5-turbo](https://platform.openai.com/docs/models/gpt-3-5) model of openAI on your terminal or alternately you can use it as a feature for your telegram bots or whatsapp bot, not really a hardcore project but its fun you know? tho you can't make many requests because of their [rate limits policy](https://platform.openai.com/docs/guides/rate-limits)
 
 # Dependecies required
 `openai` A library by openAI, basically a wrappper to work with their api
