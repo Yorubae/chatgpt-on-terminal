@@ -14,7 +14,7 @@ Through this script you can communicate with [gpt-3.5-turbo](https://platform.op
 chmod +x install.sh
 
 ```
-provide executeable permission to make the scipt to run
+provide executeable permission to the script to make it executeable 
 ```bash
 ./install.sh
 ```
